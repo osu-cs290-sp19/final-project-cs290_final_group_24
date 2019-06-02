@@ -46,7 +46,8 @@ var a = 1;
 <img src = "http://dustyroom.com/wp-content/uploads/2017/01/empty-featured2-1.png" height="200">
 
 * put a Marvel logo in here.
-<img src="https://www.redwolf.in/image/catalog/stickers/marvel-avengers-logo-sticker.jpg" height="200">
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61sGr2gd2TL._SX425_.jpg" height="200">  <img src="https://www.redwolf.in/image/catalog/stickers/marvel-avengers-logo-sticker.jpg" height="200"> 
 
 * picture of Iron Man.
 * picture of Captain America.
