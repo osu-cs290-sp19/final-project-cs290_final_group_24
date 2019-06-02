@@ -19,7 +19,7 @@ var a = 1;
 ```
 
 * Multiple web pages are required.
-* Individual photos of the main Marvel heroes are required, and the images need to hover and should connect to their own web page.
+* Individual photos of the main Marvel heroes are required, and the images need to hover and should connect to their own web page( make the picture hyperlink format).
 * A message editing box is needed. It can be pushed into the each hero's website.
 * A search box is needed.
 * When you down the search, a matching hero will be appear as a photo form, using this photo enter the hero's personal web page.
