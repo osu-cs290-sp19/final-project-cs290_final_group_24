@@ -2,7 +2,7 @@
 ## Team Member
 * NO.1 Youli Zhao
 * NO.2 HaoXiang Dai
-* NO.3 😄
+* NO.3 Zhiyi He
 * NO.4 😁
 ## Introduction
 This is a <b>github markdown</b> example
