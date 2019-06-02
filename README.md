@@ -5,7 +5,7 @@
 * NO.3 Zhiyi He
 
 ## Introduction
-In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero; their time line in the Marvel universe; their own background stories. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her.
+In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their time line in the Marvel universe; their own background stories. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her.
 
 ## Get Start
 Just want to show how to display a part of the code
@@ -40,6 +40,17 @@ var a = 1;
 |...|...|
 ## Logo or Picture (Optional)
 <img src = "http://dustyroom.com/wp-content/uploads/2017/01/empty-featured2-1.png" height="200">
+
+* put a Marvel logo in here.
+* picture of Iron Man.
+* picture of Captain America.
+* picture of Hawkeye.
+* picture of Scarlet Witch.
+* picture of Black Window.
+* picture of Hulk.
+* picture of Thor.
+
+
 
 ## Related Link
 <a href="https://expressjs.com/en/guide/routing.html">Express_Routing</a><br>
