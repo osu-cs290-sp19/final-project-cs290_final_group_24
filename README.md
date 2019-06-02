@@ -43,8 +43,6 @@ var a = 1;
 |mongodb|3.2.5|
 |...|...|
 ## Logo or Picture (Optional)
-<img src = "http://dustyroom.com/wp-content/uploads/2017/01/empty-featured2-1.png" height="200">
-
 * put a Marvel logo in here.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61sGr2gd2TL._SX425_.jpg" height="200">  <img src="https://www.redwolf.in/image/catalog/stickers/marvel-avengers-logo-sticker.jpg" height="200"> 
