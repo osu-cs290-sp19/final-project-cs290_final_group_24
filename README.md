@@ -1,11 +1,12 @@
-# Introduction to Avenger Alliance
+# Introduction of Avengers
 ## Team Member
 * NO.1 Youli Zhao
 * NO.2 Haoxiang Dai
 * NO.3 Zhiyi He
 
 ## Introduction
-In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero; their time line in the Marvel universe; their own background stories.
+In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero; their time line in the Marvel universe; their own background stories. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her.
+
 ## Get Start
 Just want to show how to display a part of the code
 ```
@@ -16,6 +17,11 @@ OR <br>
 console.log("Hello World!")
 var a = 1;
 ```
+
+* Multiple web pages are required.
+* Individual photos of the main Marvel heroes are required, and the images need to hover and should connect to their own web page.
+
+
 ## TO-DO List
 - [X] html
 - [X] css
@@ -24,6 +30,7 @@ var a = 1;
 - [ ] handlebars
 - [ ] database
 - [ ] ...
+
 ## Packages
 |Package|Version|
 |------|-----|
