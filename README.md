@@ -1,11 +1,11 @@
 # Introduction to Avenger Alliance
 ## Team Member
 * NO.1 Youli Zhao
-* NO.2 HaoXiang Dai
+* NO.2 Haoxiang Dai
 * NO.3 Zhiyi He
-* NO.4 😁
+
 ## Introduction
-This is a <b>github markdown</b> example
+In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero; their time line in the Marvel universe; their own background stories.
 ## Get Start
 Just want to show how to display a part of the code
 ```
