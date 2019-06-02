@@ -5,7 +5,7 @@
 * NO.3 Zhiyi He
 
 ## Introduction
-In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their time line in the Marvel universe; their own background stories. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her. Users can also directly iump to the hero's page by searching for the name of the superhero.
+In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their time line in the Marvel universe; their own background stories. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her. Users can also directly jump to the hero's page by searching for the name of the superhero.
 
 ## Get Start
 Just want to show how to display a part of the code
