@@ -1,7 +1,7 @@
 # Example Github Markdown
 ## Team Member
-* NO.1 😀
-* NO.2 😅
+* NO.1 Youli Zhao
+* NO.2 HaoXiang Dai
 * NO.3 😄
 * NO.4 😁
 ## Introduction
