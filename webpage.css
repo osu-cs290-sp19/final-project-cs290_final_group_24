@@ -39,3 +39,8 @@ body{
     background: none;
     border: none;
 }
+
+.Avengers-container{
+  display:flex;
+  flex-wrap:wrap;
+}
