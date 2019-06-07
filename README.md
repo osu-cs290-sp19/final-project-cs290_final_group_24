@@ -43,18 +43,15 @@ var a = 1;
 |mongodb|3.2.5|
 |...|...|
 ## Logo or Picture (Optional)
-* put a Marvel logo in here.
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/61sGr2gd2TL._SX425_.jpg" height="200">  <img src="https://www.redwolf.in/image/catalog/stickers/marvel-avengers-logo-sticker.jpg" height="200"> 
-
-* picture of Iron Man.
-* picture of Captain America.
-* picture of Hawkeye.
-* picture of Scarlet Witch.
-* picture of Black Window.
-* picture of Hulk.
-* picture of Thor.
-
+* Avenger logo
+* Iron Man.
+* Captain America.
+* Hawkeye.
+* Scarlet Witch.
+* Black Window.
+* Hulk.
+* Thor.
+* We will have a tag logo of the website and a avenger logo in the title. Seven pictures of Avengers, each picture connect to a new html website, the function of that represent the individual information of each heros.
 
 
 ## Related Link
