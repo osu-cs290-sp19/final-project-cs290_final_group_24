@@ -59,5 +59,5 @@ var a = 1;
 <a href="https://github.com/ericf/express-handlebars">Express_Handlebars</a><br>
 <a href="https://docs.mongodb.com/manual/">MongoDB</a>
 
-<p>https://css-tricks.com/play-sound-on-hover/</p><p>https://www.w3schools.com/html/html5_audio.asp</p>
+https://css-tricks.com/play-sound-on-hover/ <br> https://www.w3schools.com/html/html5_audio.asp
 Using these website, adding the hover sound for the images. Write it on the js file.
