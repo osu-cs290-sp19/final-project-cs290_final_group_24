@@ -14,7 +14,7 @@ body{
 
 .subtitle{
   background-color:#000000;
-  color:#A9A9A9;
+  color:white;
   text-align:center;
   margin-top:0px;
   margin-bottom:0px;
@@ -22,25 +22,50 @@ body{
   font-size: 60px;
   padding-top:15px;
   padding-bottom: 23px;
+  text-shadow: 3px 4px 10px white;
 }
 
 
 .navbar{
   height:24px;
+  background-color: black;
 }
 
 .navbar-search{
   position:absolute;
   right:0%
+  /* background:black; */
 
 
 }
 #navbar-search-botton{
-    background: none;
+    background:none;
     border: none;
 }
 
 .Avengers-container{
   display:flex;
   flex-wrap:wrap;
+  padding-left:200px;
+  padding-right: 200px;
+  padding-top: 50px;
+}
+
+.shallow{
+    box-shadow: 7px 5px 4px rgba(0, 0, 0, 0.19);
+
+
+}
+
+.shallow:hover{
+  transform: scale(1.4);
+}
+
+.AVENGERS{
+  text-align:center;
+}
+
+.Avengers-container{
+  background-image: url("img/webpage_background.png");
+  background-size: 100%;
 }
