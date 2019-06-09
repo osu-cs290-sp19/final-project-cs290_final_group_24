@@ -59,4 +59,4 @@ var a = 1;
 <a href="https://github.com/ericf/express-handlebars">Express_Handlebars</a><br>
 <a href="https://docs.mongodb.com/manual/">MongoDB</a>
 
-* https://css-tricks.com/play-sound-on-hover/ Using this website, adding the hover sound for the images.
+https://css-tricks.com/play-sound-on-hover/ Using this website, adding the hover sound for the images.
