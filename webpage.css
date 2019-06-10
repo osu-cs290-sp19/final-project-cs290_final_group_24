@@ -88,6 +88,10 @@ body{
   font-family: 'Vollkorn', serif;
 }
 
+#intro-text:hover{
+  /* font-size: 25px; */
+}
+
 #info{
   padding:10px;
   font-size:21px;
