@@ -1,0 +1,17 @@
+{
+  "name": "final-project-cs290_final_group_24-master",
+  "version": "1.0.0",
+  "description": "* NO.1 Youli Zhao * NO.2 Haoxiang Dai * NO.3 Zhiyi He",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.1.2"
+  }
+}

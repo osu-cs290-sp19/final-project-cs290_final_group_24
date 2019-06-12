@@ -1,0 +1,124 @@
+/*
+*Final project css file (group 24)
+*/
+
+html{
+  width:100%;
+  height:100%;
+}
+
+body{
+  width:100%;
+  height:100%;
+}
+
+.subtitle{
+  background-color:#000000;
+  color:white;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  font-family:'Lobster';
+  font-size: 60px;
+  padding-top:15px;
+  padding-bottom: 23px;
+  text-shadow: 3px 4px 10px white;
+}
+
+
+.navbar{
+  height:24px;
+  background-color: black;
+}
+
+.navbar-search{
+  position:absolute;
+  right:0%
+  /* background:black; */
+
+
+}
+#navbar-search-botton{
+    background:none;
+    border: none;
+}
+
+.Avengers-container{
+  display:flex;
+  flex-wrap:wrap;
+  padding-left:200px;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url("img/webpage_background.png");
+  background-size: 100%;
+}
+
+.shallow{
+    box-shadow: 7px 5px 4px rgba(0, 0, 0, 0.19);
+
+
+}
+
+.shallow:hover{
+  transform: scale(1.4);
+}
+
+.AVENGERS{
+  text-align:center;
+}
+
+#avengers_container{
+  display:flex;
+  flex-wrap:wrap;
+  padding-left:100px;
+  padding-right:0px;
+  padding-top: 100px;
+  padding-bottom: 180px;
+  background-image: url("img/webpage_background.png");
+  background-size: 100%;
+}
+
+#img-margin{
+  margin-right: 50px;
+}
+
+#intro-text{
+  color: white;
+  font-family: 'Vollkorn', serif;
+}
+
+#intro-text:hover{
+  /* font-size: 25px; */
+}
+
+#info{
+  padding:10px;
+  font-size:21px;
+}
+
+
+
+
+
+#fans-of-the-message{
+	position: fixed;
+	bottom:40px;
+	left:120px;
+	border-radius: 50%;
+	background-color:lightblue;
+	color:white;
+	width: 50px;
+	height:50px;
+	border:none;
+	font-size: 24px;
+	box-shadow: 7px 5px 4px rgba(0, 0, 0, 0.19);
+}
+
+#fans-of-the-message:hover{
+	background-color:#319df7;
+	width:60px;
+	height:60px;
+	font-size: 30px;
+
+}

@@ -3,72 +3,35 @@
  */
 
 
-var url = require('url');
-var http = require('http');
-var fs = require('fs');
+var path = require('path');
+var express = require('express');
 var port = process.env.PORT || 3000;
-var index_html,index_js,style_css,html_404;
+var sever1 = express();
+var exphbs = require('express-handlebars');
 
-fs.readFile('webpage.html',function(err,content){
-    if(err)throw err;
-    index_html  = content;
+
+sever1.engine('handlebars', exphbs({ defaultLayout: 'webpage' }));
+sever1.set('view engine', 'handlebars');
+sever1.use(express.static('HTML'));
+
+var data = {};//get data from database
+
+sever1.get('/',function (req, res) {
+
+  res.status(200).render('body',data // insert data here
+  );
 });
-fs.readFile('sub-webpage.html.html',function(err,content){
-    if(err)throw err;
-  html_404  = content;
+
+sever1.get('/:name',function (req, res) {
+  var name1 = req.params.name;
+  res.status(200).render('partials/'+name1,data // insert data here
+  );
+  console.log("data sended");
 });
-/*
-fs.readFile('public/index.js',function(err,content){
-    if(err)throw err;
-  index_js  = content;
+
+ sever1.get('*', function (req, res) {
+  res.status(404).render('404', {});
 });
-fs.readFile('public/style.css',function(err,content){
-    if(err)throw err;
-  style_css  = content;
-});*/
 
 
-function requestHandler(req, res){
-
-  if(req.url ==="webpage.html" || req.url === "/"){
-    res.statusCode = 200;
-    res.setHeader('Content-Type','text/html');
-    res.write(index_html);
-    res.end();
-  }
-  /*
-  else if(req.url ==="/404.html"){
-    res.statusCode = 200;
-    res.setHeader('Content-Type','text/html');
-    res.write(html_404);
-    res.end();
-  }
-  
-  else if(req.url ==="/style.css"){
-    res.statusCode = 200;
-    res.setHeader('Content-Type','text/css');
-    res.write(style_css);
-    res.end();
-  }
-  
-  else if(req.url ==="/index.js"){
-    res.statusCode = 200;
-    res.setHeader('Content-Type','text/js');
-    res.write(index_js);
-    res.end();
-  }
-  
-  else{
-    res.statusCode = 404;
-    res.setHeader('Content-Type','text/html');
-    res.write(html_404);
-    res.end();
-  }
-  */
-};
-
-
-var server1 = http.createServer(requestHandler);
-server1.listen(port,function(){
-  console.log("==listening port 3000");
-});
+sever1.listen(port);
