@@ -11,6 +11,9 @@ var exphbs = require('express-handlebars');
 var MongoClient = require('mongodb').MongoClient;
 
 
+var data = require('./heroes_data');//get datas
+
+
 
 sever1.engine('handlebars', exphbs({ defaultLayout: 'webpage' }));
 sever1.set('view engine', 'handlebars');
