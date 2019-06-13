@@ -5,17 +5,22 @@
 * NO.3 Zhiyi He
 
 ## Introduction
-In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their time line in the Marvel universe; their own background stories. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her. Also you can directly jump to the hero's page by searching for the name of the superhero.
+In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their own background. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her. Also you can directly jump to the hero's page by searching for the name of the superhero.
 
 ## Get Start
-Just want to show how to display a part of the code
 ```
 $ npm start
 ```
-OR <br>
-```javascript
-console.log("Hello World!")
-var a = 1;
+<br>You may need to install some json file. "express","express-handlebars", "handlebars"
+```
+$npm install express;
+$npm install express-handlebars;
+$npm install handlebars;
+```
+OR<br>
+You can using
+```
+npm i-- save express express-handlebars handlebars
 ```
 
 * Multiple web pages are required.
