@@ -33,18 +33,23 @@ sever1.get('/',function (req, res) {
 });
 
 sever1.get('/iron_man',function (req, res) {
+ 
   var name1 = req.params.name;
   res.status(200).render('partials/iron_man',data // insert data here
   );
   console.log("data sended");
 });
 sever1.get('/hulk',function (req, res) {
+  //var collection = db.collection('cs290final');
+
   var name1 = req.params.name;
   res.status(200).render('partials/hulk',data // insert data here
   );
   console.log("data sended");
 });
 sever1.get('/captain_america',function (req, res) {
+   //var collection = db.collection('cs290final');
+
   var name1 = req.params.name;
   res.status(200).render('partials/captain_america',data // insert data here
   );
@@ -52,6 +57,8 @@ sever1.get('/captain_america',function (req, res) {
 });
 
 sever1.get('/thor',function (req, res) {
+   //var collection = db.collection('cs290final');
+
   var name1 = req.params.name;
   res.status(200).render('partials/thor',data // insert data here
   );
