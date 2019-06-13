@@ -1,3 +1,131 @@
+{
+    "captin_america": {
+      "name": "Steve Rogers",
+      "photo":{"url" : "/img/captain_america.jpg"},
+
+      "Birthplace": "Brooklyn, New York, USA",
+      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero",
+      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability.",
+      "Weaponry": "A shield made of vibration gold."
+
+          
+    },
+
+
+  "blackWidow":{
+    "Name": "Natasha Romanoff",
+    "Nationality": "The United States of America",
+    "Height": "170cm",
+    "Birthplace": "Stalingrad, former Soviet union",
+    "Career": "Secret Service, Super Hero",
+    "Team": "Avenger Alliance, S.H.I.E.L.D, Secret avengers Major Capabilities:Enhanced physical fitness",
+    "Weaponry": "Widow's Bite"
+  },
+
+
+  "Dr_Strange":{
+   "Name": "Stephen Strange",
+   "photo":{
+     "url": "/img/Dr_Strange.jpg"
+   },
+   "Nationality": "The United States of America",
+   "Height": "188cm",
+   "Birthplace": "Philadelphia, Pennsylvania, USA",
+   "Career":"Neurosurgeon, Sorcerer Supreme, Superhero",
+    "Graduation College": "Columbia University (md)",
+    "Team": "Avenger Alliance, The Defenders, Illuminati",
+    "Major Capabilities": "Master all kinds of magic"
+  },
+
+
+  "hawkeye":{
+    "name":"hawkeye",
+    "photo":{
+      "url":"/img/hawkeye.jpg"},
+    "Nationality": "The United States of America",
+    "Height": "191cm (Wear a war suit:198cm)",
+    "Birthplace": "Waverley, Iowa, USA",
+    "Career": "Circus performers, archery teachers, secret agents, superhero",
+    "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability.",
+    "Major Capabilities": "The arrows never fail. High-tech arrows with various functions. Super Reactivity and Hand-eye Coordination"
+  },
+
+  "hulk":{
+    "name":"Robert Bruce Banner",
+    "photo":{
+      "url":"/img/hulk.jpg"
+    },
+    "Nationality": "The United States of America",
+    "Height": "Before transformation: 178cm / behind transformation: 213cm",
+    "Birthplace": "Dayton, Ohio, USA",
+    "Career": "Physicist, superhero",
+    "Graduation College": "Massachusetts Institute of Technology (Doctor of Physics, Doctor of Engineering)",
+    "Team": "Avenger Alliance, Illuminati. The Defenders",
+    "Major Capabilities": "Invincible strength and endurance. Fly like jump. A body that cannot be penetrated by a knife or gun. Strong self-healing ability."
+  },
+
+  "iron man":{
+  "Name": "Tony Stark",
+  "photo":{
+    "url":"/img/iromman.jpg"
+  },
+  "Nationality": "The United States of America",
+  "Height": "186cm (Wear a war suit:198cm)",
+  "Birthplace": "Long Island, New York, USA",
+  "Wife": "Pepper Potts",
+  "Career": "Chairman of Stark Industries, Super Hero",
+  "Graduation College": "Massachusetts Institute of Technology (Doctor of Physics, Doctor of Engineering)",
+  "Team": "Avenger Alliance, S.H.I.E.L.D, Illuminati",
+  "Major Capabilities": "Steel Warfare Garments, Manufacturing Various High-Tech Equipment"
+  },
+
+
+  "scarlet witch":{
+    "Name": "Wanda Django Maximoff",
+    "photo":{
+      "url":"/img/Scarlet_witch.jpg"
+    },
+    "Nationality": "Gypsyish",
+    "Height": "170cm",
+    "Birthplace": "Serbia",
+    "Brother": "Quicksilver",
+    "Husband": "Vision",
+    "Career": "Super Hero",
+    "Main achievements": "Join the avengers, kill Ultron, and wreak havoc on thanos",
+    "Team": "Avenger Alliance",
+    "Major Capabilities": "Chaos magic, modified probability"
+
+  },
+
+
+
+  "thor":{
+  "Name": "Thor Odinson",
+  "photo":{
+    "url":"/img/Thor.jpg"
+  },
+  "Nationality": "Aesir",
+  "Height": "198cm",
+  "Birthplace": "The Norwegian caves",
+  "Father": "Odin",
+  "Career": "The Norse god of thunder, prince Asgard, superhero",
+  "Main achievements": "Helped found the avengers and ended ragnarok",
+  "Team": "Avenger Alliance",
+   "Major Capabilities": "Far beyond all the physical and sensory abilities of human beings. Weapons and knives all over the body, thunder and lightning and storm control"
+  
+},
+
+  "vision":{
+  "Name": "Vision",
+  "photo":{
+    "url":"/img/Vision.jpg"
+  },
+  "Wife": "Scarlet Witch",
+  "Main achievement": "Stops Ultron",
+  "Team": "Avenger Alliance"
+  }
+}
+=======
 
 {
     "captin_america": {
