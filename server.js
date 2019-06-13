@@ -14,6 +14,12 @@ var MongoClient = require('mongodb').MongoClient;
 var data = require('./heroes_data');//get datas
 
 
+var mongoHost = process.env.MONGO_HOST;
+var mongoPort = process.env.MONGO_PORT || 27017;
+var mongoUser = process.env.MONGO_USER;
+var mongoPassword = process.env.MONGO_PASSWORD;
+var mongoDBName = process.env.MONGO_DB_NAME;
+
 
 sever1.engine('handlebars', exphbs({ defaultLayout: 'webpage' }));
 sever1.set('view engine', 'handlebars');
