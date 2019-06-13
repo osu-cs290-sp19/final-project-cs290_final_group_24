@@ -10,6 +10,7 @@
     <link rel = "stylesheet" href = "../webpage.css" media="screen">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
     <link rel="icon" href="../img/Avenger_2.jpg" sizes="50x50">
+    <script src="client.js" charset="utf-8" defer></script>
   </head>
 
 
@@ -25,5 +26,41 @@
   <div = Dr_strange-text>
     <img class="Dr_strange" src="../img/Dr_Strange.jpg" alt = "Dr_Strange_img" style="width:270px;height:350px;">
   </div>
+
+</main>
+
+<button type="button" id="fans-of-the-message">
+  <i class="fal fa-comment-alt-dots"> chips talk</i>
+</button>
+
+<div id="modal-backdrop" class="hidden"></div>
+<div id="create-twit-modal" class="hidden">
+  <div class="modal-dialog">
+
+    <div class="modal-header">
+      <h3>Create a Chip talk</h3>
+      <button type="button" class="modal-close-button">&times;</button>
+    </div>
+
+    <div class="modal-body">
+      <div class="twit-input-element">
+        <label for="twit-text-input">Chip text</label>
+        <textarea id="twit-text-input"></textarea>
+      </div>
+      <div class="twit-input-element">
+        <label for="twit-attribution-input">Author</label>
+        <input type="text" id="twit-attribution-input">
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="modal-cancel-button">Cancel</button>
+      <button type="button" class="modal-accept-button">Create Chip talk</button>
+    </div>
+
+  </div>
+</div>
+
+<main class="twit-container">
 
 </main>
