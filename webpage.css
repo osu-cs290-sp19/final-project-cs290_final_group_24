@@ -97,28 +97,27 @@ body{
   font-size:21px;
 }
 
-
-
-
-
 #fans-of-the-message{
-	position: fixed;
-	bottom:40px;
-	left:120px;
-	border-radius: 50%;
-	background-color:lightblue;
-	color:white;
-	width: 50px;
-	height:50px;
-	border:none;
-	font-size: 24px;
-	box-shadow: 7px 5px 4px rgba(0, 0, 0, 0.19);
+	border-radius: 10%;
+    background-color: red;
+    width: 5pc;
+    height: 5pc;
+    padding: 0%; 
+    position: fixed;
+    right: 20pc;
+    bottom: 3pc;
+    color: white;
+    font-size: 40px;
+    border: 1px;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.25);
 }
 
 #fans-of-the-message:hover{
-	background-color:#319df7;
-	width:60px;
-	height:60px;
-	font-size: 30px;
-
+  background-color: #3399FF;
+  cursor: pointer;
+  width: 21pc;
+  height: 6pc;
+  position: fixed;
+  right: 9.5pc;
+  bottom: 2.5pc;
 }
