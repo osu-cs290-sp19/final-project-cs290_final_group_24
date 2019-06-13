@@ -42,9 +42,10 @@ npm i-- save express express-handlebars handlebars
 ## Packages
 |Package|Version|
 |------|-----|
-|express|4.17.0|
+|express|4.17.1|
 |express-handlebars|3.1.0|
-|mongodb|3.2.5|
+|mongodb|3.2.7|
+|handlebars|4.1.2|
 |...|...|
 ## Logo or Picture (Optional)
 * Avenger logo
