@@ -1,4 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset = "utf-8">
+    <title> Introduction of Iron Man </title>
+    <!--This link is used for the words' fonts-->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href = "../webpage.css" media="screen">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
+    <link rel="icon" href="../img/Avenger_2.jpg" sizes="50x50">
+    <link href="https://fonts.googleapis.com/css?family=Vollkorn&display=swap" rel="stylesheet">
+    <script src="client.js" charset="utf-8" defer></script>
+  </head>
+
+
+  <body>
+    <header>
+      <div class = "top">
+        <h1 class = "subtitle"><img class="avengers-logo" src="../img/Avenger_1.jpg" alt = "avenger-logo" style="float:left;width:138px;height:90px;"> Intro  to  Doctor  Strange</h1>
+
+    </header>
+
+
 <main class="Dr_strange_container"id="avengers_container">
-  <div = Dr_strange-text>
-    <img class="Dr_strange" src="/img/Dr_Strange.jpg" alt = "Dr_Strange_img" style="width:270px;height:350px;">
+  <div class = "Dr_strange-text" id = "info">
+    <img class="Dr_strange" id = "img-margin" src="../img/Dr_Strange.jpg" alt = "Dr_Strange_img" style="float: left;width:270px;height:350px;">
+    <div id="intro-text">
+      <p>Name: Stephen Strange<br>Nationality: The United States of America<br>Height: 188cm
+        <br>Birthplace: Philadelphia, Pennsylvania, USA
+        <br>Career:Neurosurgeon, Sorcerer Supreme, Superhero
+        <br>Graduation College: Columbia University (md)
+        <br>Team: Avenger Alliance, The Defenders, Illuminati
+        <br>Major Capabilities: Master all kinds of magic
+      </p>
+    </div>
   </div>
+</main>
+
+<button type="button" id="fans-of-the-message">
+  <i class="fal fa-comment-alt-dots"> chips talk</i>
+</button>
+
+<div id="modal-backdrop" class="hidden"></div>
+<div id="create-twit-modal" class="hidden">
+  <div class="modal-dialog">
+
+    <div class="modal-header">
+      <h3>Create a Chip talk</h3>
+      <button type="button" class="modal-close-button">&times;</button>
+    </div>
+
+    <div class="modal-body">
+      <div class="twit-input-element">
+        <label for="twit-text-input">Chip text</label>
+        <textarea id="twit-text-input"></textarea>
+      </div>
+      <div class="twit-input-element">
+        <label for="twit-attribution-input">Author</label>
+        <input type="text" id="twit-attribution-input">
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="modal-cancel-button">Cancel</button>
+      <button type="button" class="modal-accept-button">Create Chip talk</button>
+    </div>
+
+  </div>
+</div>
+
+<main class="twit-container">
+
+</main>
