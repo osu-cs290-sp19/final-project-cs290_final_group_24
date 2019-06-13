@@ -13,12 +13,11 @@ $ npm start
 ```
 <br>You may need to install some json file. "express","express-handlebars", "handlebars"
 ```
-$npm install express;
-$npm install express-handlebars;
-$npm install handlebars;
+npm install express;
+npm install express-handlebars;
+npm install handlebars;
 ```
-OR<br>
-You can using
+OR
 ```
 npm i-- save express express-handlebars handlebars
 ```
