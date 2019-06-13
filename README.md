@@ -5,7 +5,7 @@
 * NO.3 Zhiyi He
 
 ## Introduction
-In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their own background. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her. Also you can directly jump to the hero's page by searching for the name of the superhero.
+In this project, we will do a website that introduct some main Avengers from "Avenger Alliance" (Marvel movie). In here, you will see the special skill of each hero;their personal data; their own background. As a fan of Avengers, you can leave a message under your favorite Avenger and say what you want to tell him/her. 
 
 ## Get Start
 ```
