@@ -1,24 +1,25 @@
+
 {
-  "captin_america": {
-    "name": "Steve Rogers",
-    "photo":
-    {"url" : "/img/captain_america.jpg",
+    "captin_america": {
+      "name": "Steve Rogers",
+      "photo":
+      {"url" : "/img/captain_america.jpg",
 
-    "Birthplace": "Brooklyn, New York, USA",
-    "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero",
-    "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability.",
-    "Weaponry": "A shield made of vibration gold."
+      "Birthplace": "Brooklyn, New York, USA",
+      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero",
+      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability.",
+      "Weaponry": "A shield made of vibration gold."
 
-        }
-    }
-},
+          }
+      }
+  }
 
 {
   "blackWidow":{
     "Name": "Natasha Romanoff",
     "photo":{
       "url": "/img/BlackWidow.jpg",
-    }
+    },
     "Nationality": "The United States of America",
     "Height": "170cm",
     "Birthplace": "Stalingrad, former Soviet union",
@@ -33,7 +34,7 @@
    "Name": "Stephen Strange",
    "photo":{
      "url": "/img/Dr_Strange.jpg",
-   }
+   },
    "Nationality": "The United States of America",
    "Height": "188cm",
    "Birthplace": "Philadelphia, Pennsylvania, USA",
@@ -42,7 +43,7 @@
     "Team": "Avenger Alliance, The Defenders, Illuminati",
     "Major Capabilities": "Master all kinds of magic",
   }
-},
+}
 
 
 {
@@ -50,7 +51,7 @@
     "name":"hawkeye",
     "photo":{
       "url":"/img/hawkeye.jpg",
-    }
+    },
     "Nationality": "The United States of America",
     "Height": "191cm (Wear a war suit:198cm)",
     "Birthplace": "Waverley, Iowa, USA",
@@ -58,7 +59,7 @@
     "Team: Avenger Alliance, S.H.I.E.L.D",
     "Major Capabilities": "The arrows never fail. High-tech arrows with various functions. Super Reactivity and Hand-eye Coordination",
   }
-},
+}
 
 
 {
@@ -66,7 +67,7 @@
     "name":"Robert Bruce Banner",
     "photo":{
       "url":"/img/hulk.jpg"
-    }
+    },
     "Nationality": "The United States of America",
     "Height": "Before transformation: 178cm / behind transformation: 213cm",
     "Birthplace": "Dayton, Ohio, USA",
@@ -75,7 +76,7 @@
     "Team": "Avenger Alliance, Illuminati. The Defenders",
     "Major Capabilities": "Invincible strength and endurance. Fly like jump. A body that cannot be penetrated by a knife or gun. Strong self-healing ability.",
   }
-},
+}
 
 
 {
@@ -83,7 +84,7 @@
   "Name": "Tony Stark",
   "photo":{
     "url":"/img/iromman.jpg"
-  }
+  },
   "Nationality": "The United States of America",
   "Height": "186cm (Wear a war suit:198cm)",
   "Birthplace": "Long Island, New York, USA",
@@ -93,7 +94,7 @@
   "Team": "Avenger Alliance, S.H.I.E.L.D, Illuminati",
   "Major Capabilities": "Steel Warfare Garments, Manufacturing Various High-Tech Equipment",
   }
-},
+}
 
 
 {
@@ -101,7 +102,7 @@
     "Name": "Wanda Django Maximoff",
     "photo":{
       "url":"/img/Scarlet_witch.jpg"
-    }
+    },
     "Nationality": "Gypsyish",
     "Height": "170cm",
     "Birthplace": "Serbia",
@@ -113,14 +114,14 @@
     "Major Capabilities": "Chaos magic, modified probability",
 
   }
-},
+}
 
 {
   "thor":{
   "Name": "Thor Odinson",
   "photo":{
     "url":"/img/Thor.jpg",
-  }
+  },
   "Nationality": "Aesir",
   "Height": "198cm",
   "Birthplace": "The Norwegian caves",
@@ -130,7 +131,7 @@
   "Team": "Avenger Alliance",
    "Major Capabilities": "Far beyond all the physical and sensory abilities of human beings. Weapons and knives all over the body, thunder and lightning and storm control",
   }
-},
+}
 
 
 {
@@ -138,7 +139,7 @@
   "Name": "Vision",
   "photo":{
     "url":"/img/Vision.jpg"
-  }
+  },
   "Wife": "Scarlet Witch",
   "Main achievement": "Stops Ultron",
   "Team": "Avenger Alliance",
