@@ -1,118 +1,15 @@
 {
   "captin_america": {
     "name": "Steve Rogers",
-    "photos": [
-      {
-        "url": "/img/captain_america.jpg"
-      },
-    "Birthplace": "Brooklyn, New York, USA"
-    "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-    "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
+    "photo":
+    {"url" : "/img/captain_america.jpg",
+      
+    "Birthplace": "Brooklyn, New York, USA",
+    "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero",
+    "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability.",
     "Weaponry": "A shield made of vibration gold."
-    ]
-  }
+    
+        }
+    }
 }
-
-{
-    "Dr_Strange": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-
-  {
-    "hulk": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-  {
-    "scarletwitch": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-  {
-    "thor": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-  {
-    "vision": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-  {
-    "iron_man": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-  {
-    "hawkeye": {
-      "name": "Steve Rogers",
-      "photos": [
-        {
-          "url": "/img/captain_america.jpg"
-        },
-      "Birthplace": "Brooklyn, New York, USA"
-      "Girlfriend": "Peggy Carter<br>Career: United States army captain, Super Hero"
-      "Team": "Avenger Alliance, S.H.I.E.L.D, Howling Commandos<br>Major Capabilities: Far beyond the limits of physical ability."
-      "Weaponry": "A shield made of vibration gold."
-      ]
-    }
-  }
-
-
-  
 
