@@ -154,8 +154,9 @@ body{
   min-width: 350px;
   min-height: 300px;
   margin: 40px auto;
-  background-color: #fff;
+  background-color: black;
   border-radius: 15px;
+  color: white;
 }
 
 .modal-header {
@@ -226,16 +227,16 @@ body{
 }
 
 .modal-footer .modal-cancel-button:hover {
-  background-color: #eee;
+  background-color: red;
 }
 
 .modal-footer .modal-accept-button {
-  background-color: #319df6;
+  background-color:red;
   color: #fff;
 }
 
 .modal-footer .modal-accept-button:hover {
-  background-color: #087dde;
+  background-color:black;
 }
 
 
@@ -250,9 +251,10 @@ body{
   display: flex;
   margin: 2px;
   padding: 20px;
-  border: 1px solid #dadada;
+  border: 1px solid black;
   border-radius: 2px;
-  background-color: #fff;
+  background-color:black;
+  color: white;
 }
 
 .twit-icon {
