@@ -33,9 +33,9 @@ npm i-- save express express-handlebars handlebars
 ## TO-DO List
 - [X] html
 - [X] css
-- [ ] js
-- [ ] express
-- [ ] handlebars
+- [X] js
+- [X] express
+- [X] handlebars
 - [ ] database
 - [ ] ...
 
