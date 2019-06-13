@@ -11,7 +11,7 @@ In this project, we will do a website that introduct some main Avengers from "Av
 ```
 $ npm start
 ```
-<br>You may need to install some json file. "express","express-handlebars", "handlebars"
+<br>You may need to install some json file before you using "npm start". Install "express", "express-handlebars", and "handlebars".
 ```
 npm install express;
 npm install express-handlebars;
